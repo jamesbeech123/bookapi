@@ -11,7 +11,7 @@ The Book Management API allows users to add, search, and manage books through a 
 
 ## Technologies Used
 - **Backend Framework**: Spring Boot
-- **Database**: [Your Database Choice, e.g., MySQL, PostgreSQL, etc.]
+- **Database**: PostgreSQL
 - **Documentation**: Swagger for API documentation
 
 ## Endpoints
@@ -81,7 +81,7 @@ Retrieve detailed information about a specific book by its ID.
 ### Prerequisites
 - JDK 11 or higher
 - Maven or Gradle
-- Your preferred database setup (e.g., MySQL, PostgreSQL)
+- PostgreSQL
 
 ### Steps
 1. Clone the repository:
