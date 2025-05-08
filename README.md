@@ -107,8 +107,4 @@ Retrieve detailed information about a specific book by its ID.
 ## Swagger Documentation
 You can access the Swagger UI at `http://localhost:8080/swagger-ui.html` to interact with the API and explore its endpoints.
 
-## Contributing
-Feel free to fork the repository, create a branch, and submit a pull request with your improvements or fixes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
